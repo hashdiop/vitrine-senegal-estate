@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-display: "Barlow Condensed", "Arial Narrow", sans-serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+
+  /* Couleurs de marque (fixes) */
+  --color-ocre-50: #fbf4ec;
+  --color-ocre-100: #f5e3cf;
+  --color-ocre-300: #e8b47e;
+  --color-ocre-400: #e09d57;
+  --color-ocre-500: #d98a3d;
+  --color-ocre-600: #b96f28;
+  --color-ocre-700: #8f5420;
+  --color-noir-50: #f4f4f3;
+  --color-noir-100: #e6e5e3;
+  --color-noir-300: #a8a6a1;
+  --color-noir-500: #3a3936;
+  --color-noir-700: #1a1a19;
+  --color-noir-900: #0e0e0d;
+  --color-sand: #f5efe4;
+  --font-logo: "Barlow Condensed", "Arial Narrow", sans-serif;
+
+  /* Couleurs sémantiques (changent en mode sombre) */
+  --color-bg: #f8f7f4;
+  --color-surface: #ffffff;
+  --color-surface-2: #efede8;
+  --color-ink: #141413;
+  --color-muted: #5e5d59;
+  --color-line: #e3e0d9;
+
+  --animate-marquee: marquee 40s linear infinite;
+  @keyframes marquee {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+}
+
+.dark {
+  --color-bg: #0e0e0d;
+  --color-surface: #171716;
+  --color-surface-2: #201f1d;
+  --color-ink: #f2f1ee;
+  --color-muted: #a9a7a1;
+  --color-line: #2c2b29;
+}
+
+html { scroll-behavior: smooth; }
+body {
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  transition: background-color .3s, color .3s;
+}
+@layer base {
+  h1, h2, h3, h4 { font-family: var(--font-display); letter-spacing: 0.005em; }
+  h1, h2 { text-transform: uppercase; line-height: 1; }
+}
+::selection { background: var(--color-ocre-300); color: var(--color-noir-900); }
+
+.container-x { width: 100%; max-width: 80rem; margin-inline: auto; padding-inline: 1rem; }
+@media (min-width: 640px) { .container-x { padding-inline: 1.5rem; } }
+@media (min-width: 1024px) { .container-x { padding-inline: 2rem; } }
+
+.grain::after {
+  content: ""; position: absolute; inset: 0; pointer-events: none; opacity: .07;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='.8' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+.leaflet-container { font-family: var(--font-sans); border-radius: 1.5rem; z-index: 0; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
+}

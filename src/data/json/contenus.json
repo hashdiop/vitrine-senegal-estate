@@ -1,0 +1,67 @@
+{
+  "services": [
+    {
+      "slug": "vente-de-terrains",
+      "icone": "terrain",
+      "titre": "Vente de terrains",
+      "accroche": "Des parcelles sélectionnées et 100 % sécurisées juridiquement.",
+      "description": "Chaque terrain que nous proposons est vérifié en amont : statut foncier, bornage, absence de litige. Vous achetez l'esprit tranquille, avec des modalités de paiement adaptées à votre budget.",
+      "image": "/images/site/wa0044.jpg",
+      "points": ["Vérification foncière complète", "Bornage et plan de situation", "Paiement échelonné jusqu’à 24 mois", "Accompagnement notarial"]
+    },
+    {
+      "slug": "conception-de-plans",
+      "icone": "plans",
+      "titre": "Conception de plans",
+      "accroche": "Vos plans architecturaux sur-mesure, pensés pour votre mode de vie.",
+      "description": "Nos architectes traduisent vos envies en plans précis : maison familiale, immeuble R+2, villa ou local commercial. Nous préparons aussi les dossiers d'autorisation de construire.",
+      "image": "/images/site/wa0043.jpg",
+      "points": ["Plans 2D et rendus 3D", "Optimisation de la parcelle", "Dossier d’autorisation de construire", "Révisions illimitées en esquisse"]
+    },
+    {
+      "slug": "devis-et-construction",
+      "icone": "construction",
+      "titre": "Devis & construction",
+      "accroche": "Une tarification transparente et un suivi rigoureux de votre chantier.",
+      "description": "Du gros œuvre aux finitions, nous pilotons votre chantier avec des artisans qualifiés. Devis détaillé poste par poste, photos d'avancement et visites régulières — même depuis la diaspora.",
+      "image": "/images/site/wa0046.jpg",
+      "points": ["Devis détaillé et gratuit", "Suivi photo hebdomadaire", "Idéal pour la diaspora", "Matériaux de qualité contrôlée"]
+    },
+    {
+      "slug": "gestion-immobiliere",
+      "icone": "gestion",
+      "titre": "Gestion immobilière",
+      "accroche": "La valorisation de vos biens et la gestion sereine de vos locataires.",
+      "description": "Nous gérons votre bien comme s'il était le nôtre : recherche de locataires, encaissement des loyers, entretien et reporting mensuel. Vous percevez vos revenus sans contrainte.",
+      "image": "/images/site/wa0045.jpg",
+      "points": ["Recherche et sélection de locataires", "Encaissement des loyers", "Entretien et petites réparations", "Reporting mensuel"]
+    }
+  ],
+  "valeurs": [
+    { "titre": "Prix abordables", "texte": "Chaque client peut accéder à un terrain adapté à son budget, avec un paiement flexible." },
+    { "titre": "Professionnalisme", "texte": "Une maîtrise complète du foncier et des démarches simplifiées pour vous." },
+    { "titre": "Transparence", "texte": "Des documents fiables, des prix clairs et un cadre sécurisé pour vos données." },
+    { "titre": "Assistance", "texte": "Un conseiller dédié avant, pendant et après l’ouverture de votre dossier." }
+  ],
+  "etapes": [
+    { "titre": "Consultation", "texte": "Nous échangeons sur votre projet, votre budget et vos priorités — en agence ou sur WhatsApp." },
+    { "titre": "Visite du terrain", "texte": "Nous vous accompagnons sur site pour découvrir le terrain et son environnement." },
+    { "titre": "Vérification & contrat", "texte": "Contrôle des documents, signature du contrat et choix de votre plan de paiement." },
+    { "titre": "Remise des documents", "texte": "Vous recevez vos papiers et nous restons à vos côtés pour construire la suite." }
+  ],
+  "temoignages": [
+    { "nom": "Aminata S.", "role": "Enseignante, Dakar", "texte": "J'ai pu acheter mon terrain en payant chaque mois sans pression. L'équipe m'a tout expliqué et mes papiers étaient en règle.", "note": 5 },
+    { "nom": "Moussa D.", "role": "Ingénieur, diaspora (France)", "texte": "Depuis Paris, je suis la construction de ma maison grâce aux photos hebdomadaires. Une transparence rare.", "note": 5 },
+    { "nom": "Fatou K.", "role": "Commerçante, Rufisque", "texte": "Visite rapide, accompagnement chez le notaire, remise des documents dans les délais. Je recommande.", "note": 5 },
+    { "nom": "Ibrahima N.", "role": "Investisseur, Thiès", "texte": "Ils gèrent mes deux appartements en location. Les loyers arrivent à temps et je reçois un rapport clair chaque mois.", "note": 4 },
+    { "nom": "Coumba B.", "role": "Infirmière, Keur Massar", "texte": "Le simulateur m’a permis de choisir une mensualité réaliste. Aujourd’hui je suis propriétaire !", "note": 5 }
+  ],
+  "equipe": [],
+  "faq": [
+    { "q": "Comment savoir si un terrain est sécurisé ?", "r": "Avant toute mise en vente, nous vérifions le statut foncier (titre foncier, bail ou délibération), le bornage et l’absence de litige. Nous vous remettons une copie de chaque document." },
+    { "q": "Puis-je payer mon terrain en plusieurs fois ?", "r": "Oui. Après un apport initial (à partir de 20 % selon les programmes), vous pouvez étaler le reste sur 6 à 24 mois. Utilisez notre simulateur pour estimer vos mensualités." },
+    { "q": "Je vis à l’étranger, puis-je acheter et construire ?", "r": "Absolument. Une grande partie de nos clients fait partie de la diaspora. Visites vidéo, signature à distance et suivi photo du chantier sont prévus." },
+    { "q": "Quelle est la différence entre titre foncier, bail et délibération ?", "r": "Le titre foncier est la propriété définitive et la plus sûre. Le bail est un droit d’usage long accordé par l’État, transformable en titre. La délibération est une attribution par la commune. Nous vous conseillons selon votre projet." },
+    { "q": "Combien de temps pour construire une maison ?", "r": "Comptez en général 6 à 12 mois pour une maison individuelle, selon la taille du projet et les finitions choisies." }
+  ]
+}

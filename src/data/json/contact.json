@@ -1,0 +1,32 @@
+{
+  "nom": "Senegal Estates",
+  "raisonSociale": "SENEGAL ESTATES SARL",
+  "slogan": "Votre partenaire immobilier de confiance",
+  "anneeCreation": 2022,
+  "email": "contact@senegalestates.com",
+  "whatsapp": "221771588896",
+  "telephones": [
+    { "affichage": "+221 77 158 88 96", "numero": "+221771588896", "whatsapp": true },
+    { "affichage": "+221 78 180 51 65", "numero": "+221781805165", "whatsapp": true },
+    { "affichage": "+221 78 154 76 44", "numero": "+221781547644", "whatsapp": false }
+  ],
+  "adresse": "Almadies 2, vers Sedima, derrière Multelec — Keur Massar, Dakar",
+  "coordonneesGps": [14.7834, -17.3105],
+  "horaires": [
+    { "jours": "Lundi – Vendredi", "heures": "08h30 – 18h00" },
+    { "jours": "Samedi", "heures": "09h00 – 14h00" },
+    { "jours": "Dimanche", "heures": "Fermé" }
+  ],
+  "reseauxSociaux": [
+    { "nom": "Facebook", "lien": "#" },
+    { "nom": "Instagram", "lien": "#" },
+    { "nom": "TikTok", "lien": "#" },
+    { "nom": "LinkedIn", "lien": "#" }
+  ],
+  "chiffres": [
+    { "valeur": 1300, "suffixe": "+", "libelle": "Clients satisfaits" },
+    { "valeur": 236, "suffixe": "", "libelle": "Transactions réalisées" },
+    { "valeur": 2, "suffixe": "", "libelle": "Régions couvertes" },
+    { "valeur": 100, "suffixe": "%", "libelle": "Terrains sécurisés" }
+  ]
+}

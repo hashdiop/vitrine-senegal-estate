@@ -1,0 +1,200 @@
+[
+  {
+    "slug": "parcelles-keur-massar-almadies-2",
+    "titre": "Parcelles résidentielles Almadies 2",
+    "zone": "Keur Massar",
+    "region": "Dakar",
+    "superficie": 150,
+    "prix": 6500000,
+    "statut": "Disponible",
+    "document": "Bail",
+    "type": "Résidentiel",
+    "viabilise": true,
+    "lots": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=1200&q=75"
+    ],
+    "description": "Parcelles viabilisées au cœur d'un quartier en pleine expansion, à deux pas de nos bureaux. Eau et électricité à proximité, accès goudronné.",
+    "atouts": ["Accès goudronné", "Eau & électricité", "Proche commerces", "Écoles à 5 min"],
+    "coords": [14.7834, -17.3105],
+    "featured": true
+  },
+  {
+    "slug": "terrains-diamniadio-pole-urbain",
+    "titre": "Terrains Pôle urbain de Diamniadio",
+    "zone": "Diamniadio",
+    "region": "Dakar",
+    "superficie": 200,
+    "prix": 9800000,
+    "statut": "Disponible",
+    "document": "Titre foncier",
+    "type": "Résidentiel",
+    "viabilise": true,
+    "lots": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1500076656116-558758c991c1?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=75"
+    ],
+    "description": "Idéalement situés près du TER et de l'autoroute à péage, ces terrains bénéficient d'un titre foncier individuel et d'une forte valorisation attendue.",
+    "atouts": ["Titre foncier individuel", "Proche TER", "Autoroute à 3 min", "Forte plus-value"],
+    "coords": [14.7203, -17.1829],
+    "featured": true
+  },
+  {
+    "slug": "lotissement-lac-rose",
+    "titre": "Lotissement vue Lac Rose",
+    "zone": "Lac Rose",
+    "region": "Dakar",
+    "superficie": 300,
+    "prix": 7200000,
+    "statut": "Disponible",
+    "document": "Délibération",
+    "type": "Résidentiel",
+    "viabilise": false,
+    "lots": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=75"
+    ],
+    "description": "Un cadre naturel exceptionnel entre lac et océan, parfait pour une résidence secondaire ou un projet touristique.",
+    "atouts": ["Cadre naturel", "Proche océan", "Idéal résidence secondaire", "Paiement sur 24 mois"],
+    "coords": [14.8392, -17.2322],
+    "featured": true
+  },
+  {
+    "slug": "terrain-commercial-sangalkam",
+    "titre": "Terrain commercial Sangalkam",
+    "zone": "Sangalkam",
+    "region": "Dakar",
+    "superficie": 500,
+    "prix": 15000000,
+    "statut": "Réservé",
+    "document": "Titre foncier",
+    "type": "Commercial",
+    "viabilise": true,
+    "lots": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1500076656116-558758c991c1?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=75"
+    ],
+    "description": "Grande parcelle en bordure de route principale, adaptée à un commerce, un entrepôt ou un immeuble mixte.",
+    "atouts": ["Bord de route", "Fort passage", "Titre foncier", "Usage mixte"],
+    "coords": [14.7856, -17.2275],
+    "featured": false
+  },
+  {
+    "slug": "parcelles-bayakh",
+    "titre": "Parcelles agricoles Bayakh",
+    "zone": "Bayakh",
+    "region": "Thiès",
+    "superficie": 1000,
+    "prix": 5500000,
+    "statut": "Disponible",
+    "document": "Délibération",
+    "type": "Agricole",
+    "viabilise": false,
+    "lots": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1500076656116-558758c991c1?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=75"
+    ],
+    "description": "Terres fertiles de la zone des Niayes, idéales pour le maraîchage, l'arboriculture ou un verger familial.",
+    "atouts": ["Zone des Niayes", "Sol fertile", "Nappe accessible", "Grande superficie"],
+    "coords": [14.8905, -17.1318],
+    "featured": false
+  },
+  {
+    "slug": "residence-jardins-de-pout",
+    "titre": "Résidence Les Jardins de Pout",
+    "zone": "Pout",
+    "region": "Thiès",
+    "superficie": 250,
+    "prix": 4200000,
+    "statut": "Disponible",
+    "document": "Bail",
+    "type": "Résidentiel",
+    "viabilise": true,
+    "lots": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=75"
+    ],
+    "description": "Un lotissement accessible pour devenir propriétaire à petit prix, avec des facilités de paiement adaptées à tous les budgets.",
+    "atouts": ["Prix accessible", "Apport dès 20 %", "Voirie tracée", "Proche autoroute"],
+    "coords": [14.7712, -17.0602],
+    "featured": true
+  },
+  {
+    "slug": "terrains-saly-portudal",
+    "titre": "Terrains Saly Portudal",
+    "zone": "Saly",
+    "region": "Thiès",
+    "superficie": 400,
+    "prix": 18500000,
+    "statut": "Disponible",
+    "document": "Titre foncier",
+    "type": "Résidentiel",
+    "viabilise": true,
+    "lots": 4,
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=75"
+    ],
+    "description": "Sur la Petite-Côte, à quelques minutes de la plage, ces terrains sont parfaits pour une villa ou un investissement locatif saisonnier.",
+    "atouts": ["Plage à 5 min", "Zone touristique", "Titre foncier", "Rentabilité locative"],
+    "coords": [14.4497, -17.0123],
+    "featured": false
+  },
+  {
+    "slug": "parcelles-keur-ndiaye-lo",
+    "titre": "Parcelles Keur Ndiaye Lo",
+    "zone": "Keur Ndiaye Lo",
+    "region": "Dakar",
+    "superficie": 150,
+    "prix": 5000000,
+    "statut": "Vendu",
+    "document": "Bail",
+    "type": "Résidentiel",
+    "viabilise": true,
+    "lots": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=1200&q=75"
+    ],
+    "description": "Programme entièrement commercialisé. Inscrivez-vous pour être informé des prochaines tranches.",
+    "atouts": ["Quartier calme", "Proche Rufisque", "Voirie tracée", "Programme complet"],
+    "coords": [14.7605, -17.1683],
+    "featured": false
+  },
+  {
+    "slug": "terrains-thies-nord",
+    "titre": "Terrains Thiès Nord",
+    "zone": "Thiès",
+    "region": "Thiès",
+    "superficie": 300,
+    "prix": 6000000,
+    "statut": "Disponible",
+    "document": "Titre foncier",
+    "type": "Résidentiel",
+    "viabilise": true,
+    "lots": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=75",
+      "https://images.unsplash.com/photo-1500076656116-558758c991c1?auto=format&fit=crop&w=1200&q=75"
+    ],
+    "description": "Au nord de la ville de Thiès, des parcelles avec titre foncier pour bâtir votre maison familiale en toute sérénité.",
+    "atouts": ["Titre foncier", "Ville dynamique", "Commodités", "Paiement échelonné"],
+    "coords": [14.8102, -16.9268],
+    "featured": false
+  }
+]
